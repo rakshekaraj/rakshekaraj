@@ -11,7 +11,7 @@ I leverage technology to create impactful, sustainable solutions. Driven by grat
 
 ---
 
-[![Raksheka's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshekaraj&hide=contribs,rank,issues&count_private=true&show_icons=true&theme=radical&hide_rank=true)
+[![Raksheka's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshekaraj&hide=contribs,stars,issues&count_private=true&show_icons=true&theme=radical&hide_rank=true)
 ](https://github.com/MaddyDev-glitch/github-readme-stats)
 <br>
 ![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
