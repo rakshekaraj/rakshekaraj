@@ -1,4 +1,16 @@
 ### Hi there 👋
+# Raksheka Rajakumar
+
+[Website](http://www.raksheka.me) | [LinkedIn](https://www.linkedin.com/in/raksheka/) | [GitHub](https://github.com/rakshekaraj)  
+Los Angeles, California | +1 (323) 646-3734 | rakshekaraj@gmail.com
+
+---
+
+## About Me
+I leverage technology to create impactful, sustainable solutions. Driven by gratitude and a commitment to giving back, I thrive on dynamic learning and embrace an interdisciplinary approach to tackling challenges.
+
+---
+
 [![Raksheka's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshekaraj&hide=contribs&count_private=true&show_icons=true&theme=radical&hide_rank=true)
 ](https://github.com/MaddyDev-glitch/github-readme-stats)
 <br>
@@ -32,14 +44,4 @@
 <!--
 **rakshekaraj/rakshekaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
