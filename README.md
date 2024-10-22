@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋, this is
 # Raksheka Rajakumar
 
-[Website](http://www.raksheka.me) | [LinkedIn](https://www.linkedin.com/in/raksheka/) | [GitHub](https://github.com/rakshekaraj)  
+[Website](http://www.raksheka.me) | [LinkedIn](https://www.linkedin.com/in/raksheka/) 
 Los Angeles, California | +1 (323) 646-3734 | rakshekaraj@gmail.com
 
 ---
